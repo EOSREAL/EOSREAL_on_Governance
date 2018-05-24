@@ -1,6 +1,7 @@
 # EOSREAL_on_Governance
 EOSREAL on Governance
 
+
 This is an catalog to the files and documents:
 
 File 1: Working Plan - Reaching Consensus on EOS Governance
@@ -43,6 +44,7 @@ File 2: Constitution:
 	o) Article XV - Default Arbitration Forum Named
 	p) Article XVI - Amendment
 	q) Article XVII - Choice of Law
+        r) Links to the Latest Version on Contitutions: Github links of EOSIO
          
          This is the latest version of constitution articles. All the revisions that have gained consensus will be added to this file (highlighted using colored font for everyone to know the change)
 
@@ -55,12 +57,14 @@ File 2: Constitution:
 
 File 3: Block Producer Agreement
 
-    1) Block Producer Agreement Discussion Thread - Last revision time: 
+    1) Block Producer Agreement - Last revision time: 
          
          This is the latest version of Block Producer Agreement. All the revisions that have gained consensus will be added to this file (highlighted using colored font for everyone to know the change)
 
+    2) Links to the Latest BP Agreement: Github links of EOSIO
     
-    2) Revision and Corresponding Feedback
+
+    3) Revision and Corresponding Feedback
 
        This is a resipotory of all the revision suggestions and corresponding feedback on BP Agreement
 
