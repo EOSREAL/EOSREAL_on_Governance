@@ -1,0 +1,1 @@
+https://github.com/EOSIO/eos/blob/master/governance/constitution.md
