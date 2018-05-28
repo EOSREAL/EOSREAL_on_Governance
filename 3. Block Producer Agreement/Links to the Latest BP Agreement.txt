@@ -1,1 +1,3 @@
 https://github.com/EOSIO/eos/blob/master/governance/bp_agreement.md
+
+https://github.com/eosrio/bp-info-standard
